@@ -21,7 +21,7 @@ This Python script analyzes a Reddit user's public activity (posts/comments) and
 
 How to Run
 1. Clone this Repo
-git clone https://github.com/yourusername/reddit-user-persona.git
+git clone https://github.com/Nithin8970/reddit-user-persona.git
 cd reddit-user-persona
 2. Install Dependencies
 pip install -r requirements.txt
